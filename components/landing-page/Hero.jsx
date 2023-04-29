@@ -55,7 +55,7 @@ export function Hero() {
       mt={6}
       >
 
-      <Link target='_blank' href={'https://app.databerry.ai/signin'}>
+      <Link target='_blank' href={'/signin'}>
         <Button variant="solid" size="lg"
           // startDecorator={<RocketLaunchRounded />}
           sx={{borderRadius: 100}}
